@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/covid-19-tracker/static/css/main.c9c93494.chunk.css",
-    "main.js": "/covid-19-tracker/static/js/main.92c1b1a2.chunk.js",
-    "main.js.map": "/covid-19-tracker/static/js/main.92c1b1a2.chunk.js.map",
+    "main.css": "/covid-19-tracker/static/css/main.82e7b65c.chunk.css",
+    "main.js": "/covid-19-tracker/static/js/main.d83a932f.chunk.js",
+    "main.js.map": "/covid-19-tracker/static/js/main.d83a932f.chunk.js.map",
     "runtime-main.js": "/covid-19-tracker/static/js/runtime-main.5b571555.js",
     "runtime-main.js.map": "/covid-19-tracker/static/js/runtime-main.5b571555.js.map",
-    "static/js/2.bfe943a2.chunk.js": "/covid-19-tracker/static/js/2.bfe943a2.chunk.js",
-    "static/js/2.bfe943a2.chunk.js.map": "/covid-19-tracker/static/js/2.bfe943a2.chunk.js.map",
+    "static/js/2.4e2ffac9.chunk.js": "/covid-19-tracker/static/js/2.4e2ffac9.chunk.js",
+    "static/js/2.4e2ffac9.chunk.js.map": "/covid-19-tracker/static/js/2.4e2ffac9.chunk.js.map",
     "index.html": "/covid-19-tracker/index.html",
-    "precache-manifest.854d376347f508c08ddf95189db3f053.js": "/covid-19-tracker/precache-manifest.854d376347f508c08ddf95189db3f053.js",
+    "precache-manifest.6317be27a3381870a357bbe679819c1f.js": "/covid-19-tracker/precache-manifest.6317be27a3381870a357bbe679819c1f.js",
     "service-worker.js": "/covid-19-tracker/service-worker.js",
-    "static/css/main.c9c93494.chunk.css.map": "/covid-19-tracker/static/css/main.c9c93494.chunk.css.map",
-    "static/js/2.bfe943a2.chunk.js.LICENSE.txt": "/covid-19-tracker/static/js/2.bfe943a2.chunk.js.LICENSE.txt",
+    "static/css/main.82e7b65c.chunk.css.map": "/covid-19-tracker/static/css/main.82e7b65c.chunk.css.map",
+    "static/js/2.4e2ffac9.chunk.js.LICENSE.txt": "/covid-19-tracker/static/js/2.4e2ffac9.chunk.js.LICENSE.txt",
     "static/media/image.png": "/covid-19-tracker/static/media/image.d7265326.png",
     "static/media/united-nations-covid-19-response-KSUv52EZgGg-unsplash-min.jpg": "/covid-19-tracker/static/media/united-nations-covid-19-response-KSUv52EZgGg-unsplash-min.52abb9e2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5b571555.js",
-    "static/js/2.bfe943a2.chunk.js",
-    "static/css/main.c9c93494.chunk.css",
-    "static/js/main.92c1b1a2.chunk.js"
+    "static/js/2.4e2ffac9.chunk.js",
+    "static/css/main.82e7b65c.chunk.css",
+    "static/js/main.d83a932f.chunk.js"
   ]
 }
